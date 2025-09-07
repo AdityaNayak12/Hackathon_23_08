@@ -1,6 +1,6 @@
 const API_URL = "https://free-to-play-games-database.p.rapidapi.com/api/games";
 const API_HEADERS = {
-  "X-RapidAPI-Key": "3ef3a80ac1mshef4bf66401206bcp1f96cajsnca13acd37cf5", 
+  "X-RapidAPI-Key": "333ef3a80ac1mshef4bf66401206bcp1f96cajsnca13acd37cf5", 
   "X-RapidAPI-Host": "free-to-play-games-database.p.rapidapi.com"
 };
 
